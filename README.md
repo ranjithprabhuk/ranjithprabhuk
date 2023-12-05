@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ranjithprabhu.k@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ranjithprabhuk/ranjithprabhuk/blob/main/Ranjithprabhu-Resume.pdf](https://github.com/ranjithprabhuk/ranjithprabhuk/blob/main/Ranjithprabhu-Resume.pdf)
+- 📄 Know about my experiences [https://github.com/ranjithprabhuk/ranjithprabhuk/blob/main/Ranjithprabhu-Resume-2023.pdf](https://github.com/ranjithprabhuk/ranjithprabhuk/blob/main/Ranjithprabhu-Resume-2023.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
