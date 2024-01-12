@@ -12,8 +12,8 @@
   },
   {
     "title": "Premier Group of Companies (Part time)",
-    "role": "Web & Graphic Designer",
-    "roleIcon": "suitcase",
+    "subTitle": "Web & Graphic Designer",
+    "subTitleIcon": "suitcase",
     "timeline": "Nov 2010 - Jan 2015",
     "description": [
       "Working alongside the designer team implementing the designs, also developing custom solutions to address team necessities."
@@ -23,13 +23,25 @@
   },
   {
     "title": "Master of Engineering",
-    "role": "Computer Science & Engineering",
-    "roleIcon": "graduation-cap",
+    "subTitle": "Computer Science & Engineering",
+    "subTitleIcon": "graduation-cap",
     "timeline": "June 2013 - April 2015",
     "description": [
       "Working alongside the designer team implementing the designs, also developing custom solutions to address team necessities."
     ],
     "duration": "2 years",
     "skills": []
+  },
+   {
+    "title": "Software Engineer",
+    "subTitle": "KMIT Solutions",
+    "subTitleIcon": "suitcase",
+    "timeline": "Apr 2015 - April 2016",
+    "description": [
+      "Working alongside the designer team implementing the designs, also developing custom solutions to address team necessities."
+    ],
+    "duration": "1 year",
+    "skills": ["HTML5", "CSS3", "Bootstrap", "AngularJS", "JavaScript", "SQL"],
+"projects": ["POS", "E-Commerce Apps", "KIOSK", "Reporting Tools"]
   }
 ]
