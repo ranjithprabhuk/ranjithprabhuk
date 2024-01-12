@@ -7,7 +7,7 @@
     "description": [
       "Working alongside the designer team implementing the designs, also developing custom solutions to address team necessities."
     ],
-    "duration": "5 years Integrated Course),
+    "duration": "5 years Integrated Course)",
     "skills": []
   },
   {
@@ -18,7 +18,8 @@
     "description": [
       "Working alongside the designer team implementing the designs, also developing custom solutions to address team necessities."
     ],
-    "skills": ["HTML", "CSS", "Javascript", "Designing", "Corel Draw", "Photoshop"]
+    "skills": ["HTML", "CSS", "Javascript", "Designing", "Corel Draw", "Photoshop"],
+    "duration": "4 years and 2 months"
   },
   {
     "title": "Master of Engineering",
@@ -29,5 +30,6 @@
       "Working alongside the designer team implementing the designs, also developing custom solutions to address team necessities."
     ],
     "skills": []
+    "duration": "2 years"
   }
 ]
