@@ -18,7 +18,14 @@
     "description": [
       "Working alongside the designer team implementing the designs, also developing custom solutions to address team necessities."
     ],
-    "skills": ["HTML", "CSS", "Javascript", "Designing", "Corel Draw", "Photoshop"],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Designing",
+      "Corel Draw",
+      "Photoshop"
+    ],
     "duration": "4 years and 2 months"
   },
   {
@@ -32,7 +39,7 @@
     "duration": "2 years",
     "skills": []
   },
-   {
+  {
     "title": "Software Engineer",
     "subTitle": "KMIT Solutions",
     "subTitleIcon": "suitcase",
@@ -41,7 +48,114 @@
       "Actively collaborated with team members in the development of the frontend application, demonstrating strong teamwork."
     ],
     "duration": "1 year",
-    "skills": ["HTML5", "CSS3", "Bootstrap", "AngularJS", "JavaScript", "SQL"],
-"projects": ["POS", "E-Commerce Apps", "KIOSK", "Reporting Tools"]
+    "skills": [
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "AngularJS",
+      "JavaScript",
+      "SQL"
+    ],
+    "projects": [
+      "POS",
+      "E-Commerce Apps",
+      "KIOSK",
+      "Reporting Tools"
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "subTitle": "Robert Bosch Engineering & Solutions",
+    "subTitleIcon": "suitcase",
+    "timeline": "June 2016 - Aug 2017",
+    "description": [
+      "Developed responsive web applications independently for various smart solutions using Angular and Bootstrap.",
+      "Led an 8-member team to successfully develop the end-to-end Active Assist web application, including backend microservices."
+    ],
+    "duration": "1 year and 2 months",
+    "skills": [
+      "Angular",
+      "HTML5",
+      "CSS3",
+      "TypeScript",
+      "Bootstrap",
+      "JavaScript",
+      "Java",
+      "Springboot",
+      "Microservices",
+      "SQL",
+      "GIT"
+    ],
+    "projects": [
+      "Active Assit",
+      "IOT Solutions",
+      "Dashboards and Analytics Solutions"
+    ]
+  },
+  {
+    "title": "Specialist Programmer",
+    "subTitle": "Infosys",
+    "subTitleIcon": "suitcase",
+    "timeline": "Dec 2017 - Oct 2020",
+    "description": [
+      "Joined as a consultant via Thought Disrupt company to work on the front-end application using Angular.",
+      "Offered to join as permanent employee because of the performance and took additional responsibilities to engineer the solution end to end."
+    ],
+    "duration": "2 years and 10 months",
+    "skills": [
+      "Angular",
+      "React",
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "Redux",
+      "Java",
+      "C#",
+      "Microservices",
+      "Redis",
+      "Kafka",
+      "JavaScript",
+      "SQL",
+      "GIT",
+      "Agile"
+    ],
+    "projects": [
+      "Club & Gym Management Platform",
+      "Field Logistics Module"
+    ]
+  },
+  {
+    "title": "Senior Lead Developer",
+    "subTitle": "AppKnit",
+    "subTitleIcon": "suitcase",
+    "timeline": "Nov 2020 - till date",
+    "description": [
+      "Integral team member since the project's inception and engaged in diverse responsibilities, from requirements gathering to design collaboration, development, and project management.",
+      "Played a key role in onboarding and training young talents, facilitating their integration into project work and provided technical guidance, mentoring, and support to ensure efficient completion of work items.",
+      "Maintained a commitment to delivering all aspects of the project with impeccable quality."
+    ],
+    "duration": "3 years and 2 months",
+    "skills": [
+      "React",
+      "Next JS",
+      "Nest JS",
+      "Node JS",
+      "TypeScript",
+      "JavaScript",
+      "Graph Database",
+      "Mongo DB",
+      "HTML5",
+      "CSS3",
+      "MobX",
+      "Styled Components",
+      "GraphQL",
+      "Microservices",
+      "Redis",
+      "Kafka"
+    ],
+    "projects": [
+      "Club & Gym Management Platform",
+      "Field Logistics Module"
+    ]
   }
 ]
