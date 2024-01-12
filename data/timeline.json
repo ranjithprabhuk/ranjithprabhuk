@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Master of Science",
+    "role": "Software Systems",
+    "roleIcon": "fa-certificate",
+    "timeline": "Jun 2008 - May 2013",
+    "description": [
+      "Working alongside the designer team implementing the designs, also developing custom solutions to address team necessities."
+    ],
+    "skills": []
+  },
+  {
+    "title": "Premier Group of Companies (Part time)",
+    "role": "Web & Graphic Designer",
+    "roleIcon": "fa-certificate",
+    "timeline": "Nov 2010 - Jan 2015",
+    "description": [
+      "Working alongside the designer team implementing the designs, also developing custom solutions to address team necessities."
+    ],
+    "skills": ["HTML", "CSS", "Javascript", "Corel Draw", "Photoshop"]
+  },
+  {
+    "title": "Master of Engineering",
+    "role": "Computer Science & Engineering",
+    "roleIcon": "fa-certificate",
+    "timeline": "June 2013 - April 2015",
+    "description": [
+      "Working alongside the designer team implementing the designs, also developing custom solutions to address team necessities."
+    ],
+    "skills": []
+  }
+]
