@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **ranjithprabhu.k@gmail.com**
 
+- 🤖 My World's First AI Interactive Resume [AI-Resume](https://ranjithprabhuk.github.io/ai-resume/)
+
 - 📄 Know about my experiences [Ranjithprabhu-Resume-2023](https://github.com/ranjithprabhuk/ranjithprabhuk/blob/main/Ranjithprabhu-Resume-2023.pdf)
 
 <h3 align="left">Connect with me:</h3>
