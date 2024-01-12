@@ -1,8 +1,8 @@
 [
   {
     "title": "Master of Science",
-    "role": "Software Systems",
-    "roleIcon": "graduation-cap",
+    "subTitle": "Software Systems",
+    "subTitleIcon": "graduation-cap",
     "timeline": "Jun 2008 - May 2013",
     "description": [
       "Graduated with a CGPA of 8.3, First class with distinction"
