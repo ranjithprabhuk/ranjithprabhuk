@@ -95,12 +95,18 @@
       "Springboot",
       "Microservices",
       "SQL",
-      "GIT"
+      "Rabbit MQ",
+      "GIT",
+      "Bosch Cloud"
     ],
     "projects": [
+      "Industry 4.0",
       "Active Assit",
-      "IOT Solutions",
-      "Dashboards and Analytics Solutions"
+      "IOT Projects",      
+      "Micro Climate Monitoring System",
+      "Intelligent Traffic Management",
+      "Intelligent Transport System",
+      "Smart Parking System"
     ]
   },
   {
@@ -128,6 +134,7 @@
       "JavaScript",
       "SQL",
       "GIT",
+      "Microsoft Azure",
       "Agile"
     ],
     "projects": [
