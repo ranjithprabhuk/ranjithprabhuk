@@ -1,178 +1,185 @@
 [
-  {
-    "title": "Master of Science",
-    "subTitle": "Software Systems",
-    "subTitleIcon": "graduation-cap",
-    "timeline": "Jun 2008 - May 2013",
-    "description": [
-      "Graduated with a CGPA of 8.3",
-      "First class with distinction",
-      "Class Topper",
-      "Completed the program without any arrears, demonstrating a strong academic record",
-      "Secured first prize more than 15 times in various inter college events for web designing, paper presentation and quiz"
-    ],
-    "duration": "5 years (UG & PG Integrated Course)",
-    "skills": []
-  },
-  {
-    "title": "Premier Group of Companies (Part time)",
-    "subTitle": "Web & Graphic Designer",
-    "subTitleIcon": "suitcase",
-    "timeline": "Nov 2010 - Jan 2015",
-    "description": [
-      "Proficiently used tools such as Coreldraw, Photoshop to create high-quality graphics, logos, and marketing materials.",
-      "Leveraged creativity and technical proficiency to design visually appealing and responsive websites, ensuring a seamless user experience."
-    ],
-    "skills": [
-      "HTML",
-      "CSS",
-      "Javascript",
-      "Designing",
-      "Corel Draw",
-      "Photoshop",
-      "Joomla", 
-      "PHP"
-    ],
-    "duration": "4 years and 2 months"
-  },
-  {
-    "title": "Master of Engineering",
-    "subTitle": "Computer Science & Engineering",
-    "subTitleIcon": "graduation-cap",
-    "timeline": "June 2013 - April 2015",
-    "description": [
-      "Graduated with a CGPA of 8.2",
-      "First class with distinction",
-      "No history of arrears",
-      "Secured first prize more than 5 times in various inter college events for web designing and paper presentation",
-      "Published a research paper in IEEE"
-    ],
-    "duration": "2 years",
-    "skills": []
-  },
-  {
-    "title": "Software Engineer",
-    "subTitle": "KMIT Solutions",
-    "subTitleIcon": "suitcase",
-    "timeline": "Apr 2015 - April 2016",
-    "description": [
-      "Actively collaborated with team members in the development of the frontend application, demonstrating strong teamwork."
-    ],
-    "duration": "1 year",
-    "skills": [
-      "HTML5",
-      "CSS3",
-      "Bootstrap",
-      "AngularJS",
-      "JavaScript",
-      "SQL"
-    ],
-    "projects": [
-      "POS",
-      "E-Commerce Apps",
-      "KIOSK",
-      "Reporting Tools"
-    ]
-  },
-  {
-    "title": "Software Engineer",
-    "subTitle": "Robert Bosch Engineering & Solutions",
-    "subTitleIcon": "suitcase",
-    "timeline": "June 2016 - Aug 2017",
-    "description": [
-      "Developed responsive web applications independently for various smart solutions using Angular and Bootstrap.",
-      "Led an 8-member team to successfully develop the end-to-end Active Assist web application, including backend microservices."
-    ],
-    "duration": "1 year and 2 months",
-    "skills": [
-      "Angular",
-      "HTML5",
-      "CSS3",
-      "TypeScript",
-      "Bootstrap",
-      "JavaScript",
-      "Java",
-      "Springboot",
-      "Microservices",
-      "SQL",
-      "Rabbit MQ",
-      "GIT",
-      "Bosch Cloud"
-    ],
-    "projects": [
-      "Industry 4.0",
-      "Active Assit",
-      "IOT Projects",      
-      "Micro Climate Monitoring System",
-      "Intelligent Traffic Management",
-      "Intelligent Transport System",
-      "Smart Parking System"
-    ]
-  },
-  {
-    "title": "Specialist Programmer",
-    "subTitle": "Infosys",
-    "subTitleIcon": "suitcase",
-    "timeline": "Dec 2017 - Oct 2020",
-    "description": [
-      "Joined as a consultant via Thought Disrupt company to work on the front-end application using Angular.",
-      "Offered to join as permanent employee because of the performance and took additional responsibilities to engineer the solution end to end."
-    ],
-    "duration": "2 years and 10 months",
-    "skills": [
-      "Angular",
-      "React",
-      "TypeScript",
-      "HTML5",
-      "CSS3",
-      "Redux",
-      "Java",
-      "C#",
-      "Microservices",
-      "Redis",
-      "Kafka",
-      "JavaScript",
-      "SQL",
-      "GIT",
-      "Microsoft Azure",
-      "Agile"
-    ],
-    "projects": [
-      "Club & Gym Management Platform",
-      "Field Logistics Module"
-    ]
-  },
-  {
-    "title": "Senior Lead Developer",
-    "subTitle": "AppKnit",
-    "subTitleIcon": "suitcase",
-    "timeline": "Nov 2020 - till date",
-    "description": [
-      "Integral team member since the project's inception and engaged in diverse responsibilities, from requirements gathering to design collaboration, development, and project management.",
-      "Played a key role in onboarding and training young talents, facilitating their integration into project work and provided technical guidance, mentoring, and support to ensure efficient completion of work items.",
-      "Maintained a commitment to delivering all aspects of the project with impeccable quality."
-    ],
-    "duration": "3 years and 2 months",
-    "skills": [
-      "React",
-      "Next JS",
-      "Nest JS",
-      "Node JS",
-      "TypeScript",
-      "JavaScript",
-      "Graph Database",
-      "Mongo DB",
-      "HTML5",
-      "CSS3",
-      "MobX",
-      "Styled Components",
-      "GraphQL",
-      "Microservices",
-      "Redis",
-      "Kafka"
-    ],
-    "projects": [
-      "AppKnit", "No code platform"
-    ]
-  }
-]
+      {
+        "title": "Master of Science",
+        "subTitle": "Software Systems",
+        "subTitleIcon": "graduation-cap",
+        "timeline": "Jun 2008 - May 2013",
+        "description": [
+          "Graduated with a CGPA of 8.3",
+          "First class with distinction",
+          "Class Topper",
+          "Completed the program without any arrears, demonstrating a strong academic record",
+          "Secured first prize more than 15 times in various inter college events for web designing, paper presentation and quiz"
+        ],
+        "duration": "5 years (UG & PG Integrated Course)",
+        "skills": [],
+        "type": "education"
+      },
+      {
+        "title": "Premier Group of Companies (Part time)",
+        "subTitle": "Web & Graphic Designer",
+        "subTitleIcon": "suitcase",
+        "timeline": "Nov 2010 - Jan 2015",
+        "description": [
+          "Proficiently used tools such as Coreldraw, Photoshop to create high-quality graphics, logos, and marketing materials.",
+          "Leveraged creativity and technical proficiency to design visually appealing and responsive websites, ensuring a seamless user experience."
+        ],
+        "skills": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Designing",
+          "Corel Draw",
+          "Photoshop",
+          "Joomla", 
+          "PHP"
+        ],
+        "duration": "4 years and 2 months",
+        "type": "work"
+      },
+      {
+        "title": "Master of Engineering",
+        "subTitle": "Computer Science & Engineering",
+        "subTitleIcon": "graduation-cap",
+        "timeline": "June 2013 - April 2015",
+        "description": [
+          "Graduated with a CGPA of 8.2",
+          "First class with distinction",
+          "No history of arrears",
+          "Secured first prize more than 5 times in various inter college events for web designing and paper presentation",
+          "Published a research paper in IEEE"
+        ],
+        "duration": "2 years",
+        "skills": [],
+        "type": "education"
+      },
+      {
+        "title": "Software Engineer",
+        "subTitle": "KMIT Solutions",
+        "subTitleIcon": "suitcase",
+        "timeline": "Apr 2015 - April 2016",
+        "description": [
+          "Actively collaborated with team members in the development of the frontend application, demonstrating strong teamwork."
+        ],
+        "duration": "1 year",
+        "skills": [
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "AngularJS",
+          "JavaScript",
+          "SQL"
+        ],
+        "projects": [
+          "POS",
+          "E-Commerce Apps",
+          "KIOSK",
+          "Reporting Tools"
+        ],
+        "type": "work"
+      },
+      {
+        "title": "Software Engineer",
+        "subTitle": "Robert Bosch Engineering & Solutions",
+        "subTitleIcon": "suitcase",
+        "timeline": "June 2016 - Aug 2017",
+        "description": [
+          "Developed responsive web applications independently for various smart solutions using Angular and Bootstrap.",
+          "Led an 8-member team to successfully develop the end-to-end Active Assist web application, including backend microservices."
+        ],
+        "duration": "1 year and 2 months",
+        "skills": [
+          "Angular",
+          "HTML5",
+          "CSS3",
+          "TypeScript",
+          "Bootstrap",
+          "JavaScript",
+          "Java",
+          "Springboot",
+          "Microservices",
+          "SQL",
+          "Rabbit MQ",
+          "GIT",
+          "Bosch Cloud"
+        ],
+        "projects": [
+          "Industry 4.0",
+          "Active Assit",
+          "IOT Projects",      
+          "Micro Climate Monitoring System",
+          "Intelligent Traffic Management",
+          "Intelligent Transport System",
+          "Smart Parking System"
+        ],
+        "type": "work"
+      },
+      {
+        "title": "Specialist Programmer",
+        "subTitle": "Infosys",
+        "subTitleIcon": "suitcase",
+        "timeline": "Dec 2017 - Oct 2020",
+        "description": [
+          "Joined as a consultant via Thought Disrupt company to work on the front-end application using Angular.",
+          "Offered to join as permanent employee because of the performance and took additional responsibilities to engineer the solution end to end."
+        ],
+        "duration": "2 years and 10 months",
+        "skills": [
+          "Angular",
+          "React",
+          "TypeScript",
+          "HTML5",
+          "CSS3",
+          "Redux",
+          "Java",
+          "C#",
+          "Microservices",
+          "Redis",
+          "Kafka",
+          "JavaScript",
+          "SQL",
+          "GIT",
+          "Microsoft Azure",
+          "Agile"
+        ],
+        "projects": [
+          "Club & Gym Management Platform",
+          "Field Logistics Module"
+        ],
+        "type": "work"
+      },
+      {
+        "title": "Senior Lead Developer",
+        "subTitle": "AppKnit",
+        "subTitleIcon": "suitcase",
+        "timeline": "Nov 2020 - till date",
+        "description": [
+          "Integral team member since the project's inception and engaged in diverse responsibilities, from requirements gathering to design collaboration, development, and project management.",
+          "Played a key role in onboarding and training young talents, facilitating their integration into project work and provided technical guidance, mentoring, and support to ensure efficient completion of work items.",
+          "Maintained a commitment to delivering all aspects of the project with impeccable quality."
+        ],
+        "duration": "3 years and 2 months",
+        "skills": [
+          "React",
+          "Next JS",
+          "Nest JS",
+          "Node JS",
+          "TypeScript",
+          "JavaScript",
+          "Graph Database",
+          "Mongo DB",
+          "HTML5",
+          "CSS3",
+          "MobX",
+          "Styled Components",
+          "GraphQL",
+          "Microservices",
+          "Redis",
+          "Kafka"
+        ],
+        "projects": [
+          "AppKnit", "No code platform"
+        ],
+        "type": "work"
+      }
+    ];
